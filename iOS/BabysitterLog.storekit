@@ -1,0 +1,29 @@
+{
+  "identifier": "NONCONSUMABLE",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "prod001",
+      "localizations": [
+        {
+          "description": "Unlock: Auto pay calculation and multi-sitter history",
+          "displayName": "Babysitter Log Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "sitterlog_pro",
+      "referenceName": "Babysitter Log Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
